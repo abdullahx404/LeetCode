@@ -6,7 +6,7 @@ This repository dashboard is automatically maintained and updated by GitLeet.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **2** | 2 | 0 | 0 |
+| **3** | 3 | 0 | 0 |
 
 ## Synchronized Problem Directory
 
