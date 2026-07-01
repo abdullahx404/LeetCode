@@ -6,13 +6,13 @@ This repository dashboard is automatically maintained and updated by GitLeet.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **1** | 1 | 0 | 0 |
+| **2** | 2 | 0 | 0 |
 
 ## Synchronized Problem Directory
 
 | # | Problem Title | Difficulty | Time | Space | Last Updated |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 0 ms | 0.00 MB | 2026-07-01 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 0 ms | 0 MB | 2026-07-01 |
 
 ## How to Use
 
