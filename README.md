@@ -6,7 +6,7 @@ This repository dashboard is automatically maintained and updated by LeetCommit.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **2** | 1 | 1 | 0 |
+| **3** | 2 | 1 | 0 |
 
 ## Synchronized Problem Directory
 
@@ -14,6 +14,7 @@ This repository dashboard is automatically maintained and updated by LeetCommit.
 | :---: | :--- | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 2026-07-05 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | 2026-07-05 |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2026-07-05 |
 
 ## How to Use
 
