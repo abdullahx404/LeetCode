@@ -6,13 +6,14 @@ This repository dashboard is automatically maintained and updated by LeetCommit.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **1** | 1 | 0 | 0 |
+| **2** | 1 | 1 | 0 |
 
 ## Synchronized Problem Directory
 
 | # | Problem Title | Difficulty | Last Updated |
 | :---: | :--- | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 2026-07-05 |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | 2026-07-05 |
 
 ## How to Use
 
