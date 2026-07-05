@@ -12,7 +12,7 @@ This repository dashboard is automatically maintained and updated by GitLeet.
 
 | # | Problem Title | Difficulty | Last Updated |
 | :---: | :--- | :---: | :---: |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 2026-07-01 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | 2026-07-05 |
 
 ## How to Use
 
