@@ -13,6 +13,3 @@ public:
             seens[nums[i]] = i;
         }
         
-        return {};
-    }
-};
