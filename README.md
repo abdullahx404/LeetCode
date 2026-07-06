@@ -6,13 +6,13 @@ This repository dashboard is automatically maintained and updated by LeetCommit.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 |
+| **1** | 1 | 0 | 0 |
 
 ## Synchronized Problem Directory
 
 | # | Problem Title | Difficulty | Last Updated |
 | :---: | :--- | :---: | :---: |
-| 0000 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Medium | 2026-07-06 |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2026-07-06 |
 
 ## How to Use
 
