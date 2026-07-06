@@ -6,12 +6,13 @@ This repository dashboard is automatically maintained and updated by LeetCommit.
 
 | Total Solved | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| **1** | 1 | 0 | 0 |
+| **2** | 1 | 1 | 0 |
 
 ## Synchronized Problem Directory
 
 | # | Problem Title | Difficulty | Last Updated |
 | :---: | :--- | :---: | :---: |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | 2026-07-06 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | 2026-07-06 |
 
 ## How to Use
